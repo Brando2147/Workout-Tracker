@@ -8,17 +8,17 @@ This application is a workout tracker, record your workouts and have them stored
 
 ## Table of Contents
 
-[Description](#Description)
-[About](#About)
-[Demo](#Demo)
-[Installation](#Installation)
-[Usage](#Usage)
+* [Description](#Description)
+* [About](#About)
+* [Demo](#Demo)
+* [Installation](#Installation)
+* [Usage](#Usage)
 
 ## About
 
-![alt text](https://github.com/Brando2147/Workout-Tracker/blob/main/public/images/Workout.png)
-![alt text](https://github.com/Brando2147/Workout-Tracker/blob/main/public/images/LastWorkout.png)
-![alt text](https://github.com/Brando2147/Workout-Tracker/blob/main/public/images/Dashboard.png)
+![alt text](https://github.com/Brando2147/Workout-Tracker/blob/master/public/images/Workout.png)
+![alt text](https://github.com/Brando2147/Workout-Tracker/blob/master/public/images/LastWorkout.png)
+![alt text](https://github.com/Brando2147/Workout-Tracker/blob/master/public/images/Dashboard.png)
 
 ### Installation
 
